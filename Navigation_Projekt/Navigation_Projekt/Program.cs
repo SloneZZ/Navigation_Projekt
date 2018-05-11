@@ -11,7 +11,7 @@ namespace Navigation_Projekt
         static void Main(string[] args)
         {
             Console.WriteLine("lul");
-            Console.WriteLine("Danielstinkt");
+            Console.WriteLine("Danielstinkt sehr stark");
             Console.ReadKey();
         }
     }
