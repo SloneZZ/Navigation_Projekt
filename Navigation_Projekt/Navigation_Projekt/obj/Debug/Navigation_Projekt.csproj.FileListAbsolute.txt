@@ -1,0 +1,6 @@
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\bin\Debug\Navigation_Projekt.exe.config
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\bin\Debug\Navigation_Projekt.exe
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\bin\Debug\Navigation_Projekt.pdb
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\obj\Debug\Navigation_Projekt.csprojResolveAssemblyReference.cache
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\obj\Debug\Navigation_Projekt.exe
+H:\Programmieren 2BHIF\Navigation_Projekt\Navigation_Projekt\Navigation_Projekt\obj\Debug\Navigation_Projekt.pdb
